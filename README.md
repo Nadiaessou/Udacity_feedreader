@@ -4,7 +4,7 @@ Udacity Front-End Web Developer Nanodegree Project: Feed Reader
 
 ## How to run :
 
-You can clone or download this repository and run the "index.html" file or you can follow this link 
+You can clone or download this repository and run the "index.html" file or you can follow this link https://nadia-essoubai.fr/feedreader/
 
 ## Project Overview :
 
