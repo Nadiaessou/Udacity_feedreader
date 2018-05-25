@@ -111,12 +111,11 @@ $(function() {
 
         beforeEach((done) => {
             loadFeed(0, () => {
-                feedOne = $('.feed').find(allFeeds.url);
-            });
-
-            loadFeed(1, () => {
-                feedTwo = $('.feed').find(allFeeds.url);
-                done();
+                feedOne = $('.feed').html();
+                loadFeed(1, () => {
+                    feedTwo = $('.feed').html();
+                    done(); 
+                });
             });
         });
 
