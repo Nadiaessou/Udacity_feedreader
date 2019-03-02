@@ -4,7 +4,7 @@ This project is an application that reads RSS feeds. It uses [Jasmine](https://j
 
 ## How to run
 
-You can clone or download this repository and run the "index.html" file or you can follow this link https://nadiaessou.github.io/feedreader/
+You can clone or download this repository and run the "index.html" file or you can follow this link https://nadiaessou.github.io/Udacity_feedreader/
 
 ## Project Overview
 
